@@ -1,7 +1,15 @@
+          git - global information track
+
+
 1. git clone - to clone the remote repository to local machine
 2. cd - change directory
 3. ll - long list 
 4. ls - To view in short list
 5. ll -a - to see the long list of files
 6. git status - to see the status of the files
+7. git add - add file in staging or index
+8. git commit -m "message "
+9. git branch - to check branch
+10. git reset - to reset the file from stage or commit to working
+11. git stage filename- to stage the file
 
